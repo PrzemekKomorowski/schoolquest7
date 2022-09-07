@@ -12,3 +12,13 @@ app.js (bundled file with webpack, including jquery)","images/image1.png"
 3,1493015432,1364,57,"Drawing canvas with an image picked with Cordova Camera Plugin","I'm getting an image from device and drawing a canvas with filters using Pixi JS. It works all well using computer to get an image. But when I'm on IOS, it throws errors such as cross origin issue, or that I'm trying to use an unknown format.
 
 This is the code I'm using to draw the image (that works on web/desktop but not cordova built ios app)",
+d57e01e1-5120-4983-b9fe-a122bace58e3,TitlePiotrr,Messagefdfdfdf
+9eb154d7-1b96-440c-b7a3-755233b3d6ce,07/09/2022 13:11:33,Hello,Can i have some help over here?
+a358d074-6a15-48d8-9c5e-1269ad37f74d,07/09/2022 13:27:16,Title,Message
+72cec0d6-e3c2-4607-bf13-1dfb0a0ac3ac,07/09/2022 13:51:34,Title,Message
+ac0c19d0-bafc-482f-ad33-e7df766d8db2,07/09/2022 13:51:34,PROBLEM Z SERWEREM,"DZIEN DOBRY TROLL POJAWI£ SIÊ NA KOMENDZIE PROSZE COŒ Z TYM ZROBIÆ? JAKIEŒ POMYS£Y JAK MOGE TEMU ZARADZIÆ TERAZ SAM?
+"
+90dbad52-2604-44c7-94bd-fb3d5609f77b,07/09/2022 13:51:34,Zgubi³em siê,Czy ktoœ wie jak dojechaæ do PKP w warszawie konkretnie zachodni bo siê zgubi³em
+91538244-8c66-480b-ad87-44489bd6fe73,07/09/2022 13:51:34,Tytu³ pytania,Treœæ Pytania
+044d0264-7d1b-4209-a65e-ea8bc1cb9bf3,07/09/2022 14:13:40,Jedzenie,Co polecacie na zdrowe œniadanie?
+0513f5f5-6b02-4005-9a63-24ef62b23c83,07/09/2022 14:31:08,Title,Message

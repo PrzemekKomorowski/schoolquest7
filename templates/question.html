@@ -5,6 +5,17 @@
     <title>question</title>
 </head>
 <body>
-
+<h1>Tytuł: {{ user_question[2] }}</h1>
+<br>
+<h3>Pytanie: {{ user_question[3] }}</h3>
+<br>
+<h4>ODPOWIEDZI:</h4>
+</table>
+<form action="{{ url_for('get_data_2') }}" method="POST">
+    <label for="">Anwser:</label>
+    <br>
+    <textarea name="anwser" cols="30" rows="10">Your Anwser</textarea>
+    <br>
+    <button type="submit" value="Submit">Send Anwser! </button>
 </body>
 </html>
