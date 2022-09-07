@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Add question</title>
+</head>
+<body>
+<form action="{{ url_for('get_data') }}" method="POST">
+    <label for="">Title:</label>
+    <br>
+    <textarea name="title" id="" cols="30" rows="10">Title</textarea>
+    <br>
+    <label for="">Message:</label>
+    <br>
+    <textarea name="question" id="" cols="30" rows="10">Message</textarea>
+    <br>
+    <button type="submit" value="Submit">Send question</button>
+
+
+</form>
+</body>
+</html>
